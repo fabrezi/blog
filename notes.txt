@@ -3,3 +3,5 @@ This is the site I used to fix the prod issue (to make the site work in prod):
 https://stackoverflow.com/questions/48197580/jekyll-theme-does-not-work-on-github-pages-but-works-locally
 
 The site must be kept public. It doesn't configure in private setting.
+
+Version list: https://pages.github.com/versions/
