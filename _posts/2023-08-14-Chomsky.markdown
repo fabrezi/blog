@@ -14,7 +14,7 @@ categories: jekyll update
  
  
 
-## REFERENCES 
+### References
  
 [1] https://www.zinnedproject.org/news/tdih/james-hansen-testified-senate-climate-change/
 
