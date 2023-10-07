@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Freedom Fries"
-date:   2023-10-07 02:00:22 -0400
+date:   2023-10-06 02:00:22 -0400
 categories: jekyll update
 ---
 --------------------------
@@ -42,6 +42,8 @@ in Cyclops’s cavern, waiting to be devoured.
  
  
  ## References
+
+ --------------------------------------
  
  
  [1] https://www.quora.com/Why-is-Belgium-called-the-European-battlefield
