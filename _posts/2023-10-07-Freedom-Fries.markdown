@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Freedom Fries"
-date:   2023-10-06 02:00:22 -0400
+date:   2023-10-07 03:05:22 -0400
 categories: jekyll update
 ---
 --------------------------
@@ -40,20 +40,18 @@ in Cyclops’s cavern, waiting to be devoured.
  The last part of Just War is the Justice after war or peace-building. This part occurs after the war is ended and the restoration of human life is to be initiated. Although, this part is not considered and less attention is payed. This is still important to understand and reconcile because war directly or indirectly impacts every citizen on the participates. Further the common citizens normal life, lifestock and environment is devastated. It requires international effort and the confronting states to reconcile, formulate peace treaties and initiate the building process. Mostly, we find the belligerants leave the weakened state and let them handle the calamities. No remorse or consideartion is shown. Human nature at best.
  
  
- 
- # References
 
+### References
  
+[1] https://www.quora.com/Why-is-Belgium-called-the-European-battlefield
  
+[2] https://en.wikipedia.org/wiki/Just_war_theory
  
- [1] https://www.quora.com/Why-is-Belgium-called-the-European-battlefield
+[3] http://ndl.ethernet.edu.et/bitstream/123456789/25395/1/42.pdf
  
- [2] https://en.wikipedia.org/wiki/Just_war_theory
+[4] J.J. Rousseau, Principles of the Right of War
  
- [3] http://ndl.ethernet.edu.et/bitstream/123456789/25395/1/42.pdf
- 
- [4] J.J. Rousseau, Principles of the Right of War
- 
- [5] Edward M. Collins, War, Politics & Power
+[5] Edward M. Collins, War, Politics & Power
+
 
 
