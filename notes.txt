@@ -5,3 +5,11 @@ https://stackoverflow.com/questions/48197580/jekyll-theme-does-not-work-on-githu
 The site must be kept public. It doesn't configure in private setting.
 
 Version list: https://pages.github.com/versions/
+
+Other blog ideas:
+
+- the cornered tiger
+- Pak: A failed State?
+- Aliens
+- Death by AIIII
+- The Red Santa

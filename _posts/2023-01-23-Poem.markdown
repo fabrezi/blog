@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Bundle of Poems"
+date:   2023-01-23 20:00:22 -0400
+categories: jekyll update
+---
+--------------------------
+These are the poems I wrote in 2023. Hope the readers find it entertaining.
+
+**Note: If you do use the poems, please include the author in citation.
+
+```
+Oh! Oh! my sweet sunshine,
+how my heart yearn to see your face,
+
+the lips, the hips, the grace,
+in the love of your ways,
+
+call me if you miss the day,
+we sailed acrossed the Hudson Bay,
+
+rowing, like hands of clock,
+through the trough and crest of waves,
+
+reminds me of the time,
+lying on floor, listening to your voice,
+
+I pictured you in painting,
+like that girl with pearl or ear-ring,
+
+made my heart to open and sing,
+like the nightangale or a rooster,
+
+time and space may do us apart,
+but your love will always be in my heart,
+```
