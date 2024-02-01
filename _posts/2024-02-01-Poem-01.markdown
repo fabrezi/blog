@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Free Poems"
+date:   2024-02-01 07:00:22 -0400
+categories: jekyll update
+---
+
+Title: Pain
+
+```
+There is a pain in my heart,
+That doesn't go far,
+
+There is a pain in my heart,
+That has left a bloody scar,
+
+At time, I look at it,
+To remind me of you,
+
+Its old, withered and tattered,
+Sometimes I wonder how you are,
+
+Time to peel it, with a pocket-knife,
+I see new skin, new hope, new life,
+```

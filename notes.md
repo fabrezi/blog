@@ -11,7 +11,7 @@ Other blog ideas:
 - the cornered tiger
 - Pak: A failed State?
 - Aliens
-- Death by AIIII
+- Death by AI
 - The Red Santa
 
 ## New Features
