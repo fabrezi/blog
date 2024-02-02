@@ -16,6 +16,8 @@ Other blog ideas:
 
 ## New Features
 
+00. Create a new URL for the blog. I find the current URL long and cumbersome. It should be as follows: www.mowgliblog.com or something along the lines.
+
 1. Email Configuration: This is a major feature. It is to formulate a method
 to receive mail from a certain protocol which is independent of gmail domain.
 Also I want it to use cmd prompt to send/receive messages.
