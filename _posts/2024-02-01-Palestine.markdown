@@ -5,7 +5,9 @@ date:   2024-02-01 09:00:22 -0400
 categories: jekyll update
 ---
 
-Palestine
+THIS POST IS IN PROGRESS!!!!!
 
+[//]: # "C:\Users\projects\blog\images\IMG_20231109_171049.jpg"
+[//]: # "images\IMG_20231109_171049.jpg"
 
-![Protest Image 1](images\IMG_20231109_183102.jpg "Protest Image 1")
+![Protest Image 1](./img/christmas-2023.PNG "Protest Image 1"){:class="img-responsive"}
