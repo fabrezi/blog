@@ -44,14 +44,3 @@ in a different guise
 to play with you.
 ```
 
-[//]: # "C:\Users\projects\blog\images\IMG_20231109_171049.jpg"
-[//]: # "images\IMG_20231109_171049.jpg"
-
-C:\Users\projects\blog\_posts
-C:\Users\projects\blog\_site\assets\IMG_20231109_171049.jpg
-
-![Protest Image 1](./images/IMG_20231109_183102.jpg "Protest Image 1")
-
-TEST IMAGE
-
-![Image test](._site/assets/images/IMG_20231109_171049.jpg)
