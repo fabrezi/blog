@@ -8,4 +8,3 @@ categories: jekyll update
 TESTING BETA!!!
 
 
-![NAME]({% link _site/assets/images/IMG_20231109_171049.jpg %})
