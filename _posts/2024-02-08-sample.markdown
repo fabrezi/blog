@@ -9,4 +9,6 @@ TESTING BETA!!!
 
 C:\Users\projects\blog\_site\assets\images\IMG_20231109_171049.jpg
 
+afafafa
+
 ![Image]({% link /_site/assets/images/IMG_20231109_171049.jpg %})
