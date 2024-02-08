@@ -7,4 +7,6 @@ categories: jekyll update
 
 TESTING BETA!!!
 
+C:\Users\projects\blog\_site\assets\images\IMG_20231109_171049.jpg
 
+![Image]({% link /_site/assets/images/IMG_20231109_171049.jpg %})
