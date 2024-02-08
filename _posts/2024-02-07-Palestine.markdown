@@ -7,4 +7,4 @@ categories: jekyll update
 
 IN PROGRESS!!
 
-![Name]({% link /_posts/images/IMG_20231109_171049.jpg %})
+![Name]({% link \_site\assets\images\IMG_20231109_171049.jpg %})
