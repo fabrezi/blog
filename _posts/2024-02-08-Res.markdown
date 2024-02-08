@@ -7,4 +7,5 @@ categories: jekyll update
 
 PARAGRAPH 01
 
-![Image](/images/IMG_20231109_171049.jpg)
+![Image](/_site/images/IMG_20231109_171049.jpg)
+
