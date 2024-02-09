@@ -9,4 +9,4 @@ categories: jekyll update
 PARAGRAPH 01!!!
 
 
-![Image](/assets/images/MTS.jpg)
+![Image]({{ site.baseurl }}/assets/images/MTS.jpg)
