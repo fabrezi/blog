@@ -1,2 +1,0 @@
-# blog
-personal blog site
