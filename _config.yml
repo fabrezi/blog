@@ -25,11 +25,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 #baseurl: "_posts/images" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-defaults:
- - scope:
-     path: "assets/images"
-   values:
-      image: true
+#defaults:
+# - scope:
+#     path: "assets/images"
+#   values:
+#      image: true
 
 ##soundcloud: xyz I need to figure out to add soundcloud link
 
@@ -58,5 +58,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-include:  
-   - /assets/images
+#include:  
+#   - /assets/images
