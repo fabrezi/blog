@@ -5,6 +5,26 @@ date:   2024-02-01 07:00:22 -0400
 categories: jekyll update
 ---
 
+Title: Beach Girl
+
+```
+You won't remember me,
+I will remember you,
+
+The rose doesn't see the bee,
+The bee must find the rose,
+
+The beauty is in the eyes,
+No grace, no taste, no scent,
+
+Compares to her nascent fragrance,
+As an ocean breeze on a summer's day,
+
+Lay in the fresh warm sun,
+Glowing, soaking, moaning,
+
+```
+
 Title: Pain
 
 ```
