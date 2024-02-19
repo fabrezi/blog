@@ -8,5 +8,28 @@ categories: jekyll update
 
 PARAGRAPH 01!!!
 
+There will be a difference transposed through the surreal obscenity. 
+
+I lost you,
+I lost you,
+
+I lost you from the start,
+You knew, didn't you sweetheart,
+
+The late night rides, cofee-pots,
+late-night pot, icy deserts and tv,
+
+Its all I ever wanted to be as I 
+wanted to be seen in an action movie,
+
+I kissed her hair, lips, cheeckbones,
+sugarcombs and spicy mochiato latte,
+
+She reminds of the Southern valley,
+Loving heart, caring smile and full soul,
+
+I wish lost love stayed for ever,
+You can learn the little worlds of each member,
+
 
 ![Image]({{ site.baseurl }}/assets/images/MTS.jpg)
