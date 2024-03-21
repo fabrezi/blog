@@ -6,4 +6,11 @@ permalink: /about/
 
 DM me for collaboration or leave a comment at the email listed below.
 
-Peace.
+## LINKS
+
+These are the blogs, articles and news-links that I read:
+
+- [HackerNews](www.hackernews.com)
+- [Fiction](https://raphaeljeanpierreblog.wordpress.com/?ref=spelling)
+- [LinuxNews](www.lwn.net)
+- [eras](www.erasmatazz.com)
