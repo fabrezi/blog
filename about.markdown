@@ -17,4 +17,4 @@ These are the blogs, articles and news-links that I read:
 - [ScottBlog](https://scottaaronson.blog/)
 - [DawnNews](https://www.dawn.com/)
 - [NYT](https://www.nytimes.com/)
-
+- [Chess](https://vole.wtf/kilobytes-gambit/)
