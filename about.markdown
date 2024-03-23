@@ -18,3 +18,4 @@ These are the blogs, articles and news-links that I read:
 - [DawnNews](https://www.dawn.com/)
 - [NYT](https://www.nytimes.com/)
 - [Chess](https://vole.wtf/kilobytes-gambit/)
+- [CodeBlog](https://mbuffett.com/posts)
