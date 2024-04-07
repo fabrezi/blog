@@ -13,6 +13,4 @@ PARAGRAPH 01!!!
 
 
 
-
-
 ![Image]({{ site.baseurl }}/assets/images/MTS.jpg)
