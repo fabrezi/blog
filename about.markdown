@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-DM me for collaboration or leave a comment at the email listed below.
+I am here to work on open-source projects, start-up ideas, build engineering culture and raise concern about important social issues. Feel free to contact me on the email listed on the front-page.
+
+Cheers!!
 
 ## LINKS
 
