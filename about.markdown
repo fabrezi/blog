@@ -22,3 +22,4 @@ These are the blogs, articles and news-links that I read:
 - [Chess](https://vole.wtf/kilobytes-gambit/)
 - [CodeBlog](https://mbuffett.com/posts)
 - [BroBible](https://www.artofmanliness.com/)
+- [SportsSchedule](https://www.foxsports.com/scores)
