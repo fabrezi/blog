@@ -18,6 +18,6 @@ latest blog and reports.
 
 - &#x2611; Update the About section.
 
-- [] Add SVG and link for Soundcloud account.
+-  &#x2611; Add SVG and link for Soundcloud account.
 
 - [] Add SVG and link for instagram account.
