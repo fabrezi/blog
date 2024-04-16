@@ -4,7 +4,7 @@ personal blog site
 
 ## Things to do
 
-- [ ] ~~Change the link from `fabrezi.github..` to `mogulblog.com`~~
+~~Change the link from `fabrezi.github..` to `mogulblog.com`~~
 
 
 - [] Email Configuration: This is a major feature. It is to formulate a method
