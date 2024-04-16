@@ -14,8 +14,8 @@ Also I want it to use cmd prompt to send/receive messages.
 
 ~~Subscription: How can I make a subs method for the user to retrive latest blog and reports.~~
 
-- &#x2611; Update the About section.
+ &#x2611; Update the About section.
 
 -  [] Add SVG and link for Soundcloud account.
 
--  &#x2611; Add SVG and link for instagram account.
+  &#x2611; Add SVG and link for instagram account.
