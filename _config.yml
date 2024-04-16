@@ -26,7 +26,6 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://mogulblog.com" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: moguldaone
 soundlcoud_username: fareed-khan-41
-facebook_username: 100054382454723
 github_username: fabrezi
 
 #defaults:
