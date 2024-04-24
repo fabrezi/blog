@@ -60,5 +60,5 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-#include:  
- #  - /assets/images
+include:  
+  - /assets/images
