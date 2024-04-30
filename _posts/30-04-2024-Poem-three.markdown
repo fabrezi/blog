@@ -11,10 +11,10 @@ Anti-christ
 I read Nietzsche,
 As an addict,
 
-He is the Bird person,
+He is the bird-person,
 He burns in the sun,
 
-Ozzy blazes on the speakers,
+Ozzy blazes on the speakers,    
 There is no soul or helper,
 
 The word on the street is,
