@@ -50,3 +50,37 @@ You must learn faster,
 Face the hell,
 Break the spell,
 ```
+
+Title: First Step 
+
+```
+Men needs war,
+Women needs men,
+
+It is all the same,
+JUst different names,
+
+The road calls you,
+No need for sad blues,
+
+I fight to live,
+Live to give,
+
+Things happen,
+No need to explain,
+
+Take the ticket,
+Watch the movie,
+
+Naked bodies,
+Rub in sheets,
+
+Walk the red-line,
+Places to wine and dine,
+
+Stay awake,
+Take amphetamines,
+
+Watch the sun,
+New day has begun,
+```

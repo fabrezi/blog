@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "TITLE"
-date:   2024-02-08 00:00:22 -0400
+title:  "On Palestine"
+date:   2024-05-09 00:00:22 -0400
 categories: jekyll update
 ---
 
 
-PARAGRAPH 01!!!
+
 
 ------------------------------------
 ------------------------------------
