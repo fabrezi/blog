@@ -5,7 +5,7 @@ date:   2024-04-30 09:00:00 -0400
 categories: jekyll update
 ---
 
-Anti-christ
+Title: Anti-christ
 
 ```
 I read Nietzsche,
@@ -58,7 +58,7 @@ Men needs war,
 Women needs men,
 
 It is all the same,
-JUst different names,
+Just different names,
 
 The road calls you,
 No need for sad blues,
