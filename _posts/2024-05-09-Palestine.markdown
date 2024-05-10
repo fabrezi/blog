@@ -63,6 +63,16 @@ Within few hours, the area gathered almost thousand people. Palestinian flags we
 ![Image]({{site.baseurl}}/assets/images/IMG_20231109_183117.jpg)
 *Volunteer raising in the Palestenian flag*
 
+One aspect of the event that caught my attention was the youth participation. First, the protest was held by college association (PSLATLNTA). Secondly, there were various other college organizations (Socialist-Wing, Marxist supporters, Liberal students etc.) and lastly, there were parents who brought young kids to be aware and participate. The sight of young blood to come together for a humanitarian cause is hopeful and sign of optimism. The Palestinian cause has become the Vietnam for the millineals. If this war will ever cease, it be due to the blood, sweat and sacrifice of college students.
+
+![Image]({{site.baseurl}}/assets/images/IMG_20231109_205016.jpg)
+*Prtoestors holding slogans and anti-war logos.*
+
+Pro-Isreal supporters did arrive at the protest and tried to make a scene. It was two guys and one girl. The girl was infamous and profane. They first came in a truck, rushing through the streets, and chanting curses, such as: `Sharmouta`, `death to Palestine` etc. Then they came on foot to disrupt the event. The girl, who seemed to be a native of Tel Aviv, could speak in arabic and had fiesty dialogues with the protestors. This carried on for hours. I sat on concrete stairs and lit a ciggarete. The arguments continued and the night got darker.
+
+![Image]({{site.baseurl}}/assets/images/IMG_20231109_230721.jpg)
+*Pro-Isreal supporters at the Isreal Embassy protest*
+
 
 
 ### References
