@@ -53,5 +53,12 @@ We arrived there promptly:
 ![Image]({{ site.baseurl }}/assets/images/MTS.jpg)
 *Bus stop near cumberland mall*
 
+This was my first protest. I felt I was part of Hegelian history. Indiviuals that come together to bring a change. The event started on time. As time passed on, the protest grew in strength and numbers. 
+
+![Image]({{site.baseurl}}/assets/images/IMG_20231109_183102.jpg)
+*Protestors on the side of the Spring Street, Atlanta*
+
+
+
 ### References
 
