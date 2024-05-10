@@ -48,6 +48,8 @@ This poem, sadly, is relevent during the times we are living in. As I write this
 
 I used to follow a girl on instagram who posted a feed for a peaceful protest. It had slogans as `Rally and March`, `Shut Down For Palestine` etc. It caught my attention. I call my buddy, Youcef, and planned to go. The rally was on November 9th at the Isreali consulate in Downtown, Atlanta. 
 
+![Image]({{site.baseurl}}/assets/images/event.jpg)
+
 We arrived there promptly:
 
 ![Image]({{ site.baseurl }}/assets/images/MTS.jpg)
@@ -73,7 +75,7 @@ Pro-Isreal supporters did arrive at the protest and tried to make a scene. It wa
 ![Image]({{site.baseurl}}/assets/images/IMG_20231109_230721.jpg)
 *Pro-Isreal supporters at the Isreal Embassy protest*
 
-
+The protest ended at 10AM in the morning. With no sleep, two-cups of coffee and donuts; my mind started to linger on the war, the protest and humanity, in general. 
 
 ### References
 
