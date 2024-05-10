@@ -50,7 +50,7 @@ I used to follow a girl on instagram who posted a feed for a peaceful protest. I
 
 ![Image]({{site.baseurl}}/assets/images/event.jpg)
 
-We arrived there promptly:
+I packed my bag, put on a black tshirt and went to the bus stop. My friend joined me as well.
 
 ![Image]({{ site.baseurl }}/assets/images/MTS.jpg)
 *Bus stop near cumberland mall*
