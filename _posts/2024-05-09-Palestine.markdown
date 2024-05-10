@@ -53,10 +53,15 @@ We arrived there promptly:
 ![Image]({{ site.baseurl }}/assets/images/MTS.jpg)
 *Bus stop near cumberland mall*
 
-This was my first protest. I felt I was part of Hegelian history. Indiviuals that come together to bring a change. The event started on time. As time passed on, the protest grew in strength and numbers. 
+This was my first protest. I felt I was part of Hegelian history. Indiviuals that come together to bring a change. The event started promptly. As time passed on, the protest grew in strength and numbers. 
 
 ![Image]({{site.baseurl}}/assets/images/IMG_20231109_183102.jpg)
 *Protestors on the side of the Spring Street, Atlanta*
+
+Within few hours, the area gathered almost thousand people. Palestinian flags were raised from one corner of the street to another. It was a full event. There were protest flags, speakers for chanting, police cars, helicopters in rotation, on-site news channel reporters, journalist and mini food carts. 
+
+![Image]({{site.baseurl}}/assets/images/IMG_20231109_183117.jpg)
+*Volunteer raising in the Palestenian flag*
 
 
 
