@@ -50,7 +50,7 @@ I used to follow a girl on instagram who posted a feed for a peaceful protest. I
 
 We arrived there promptly:
 
-![Image]({{ site.baseurl }}/assets/images/MTS.jpg)
+![Image]({{ site.baseurl }}/assets/images/MTS.jpg "Bus stop at Cumberland district")
 
 
 ### References
