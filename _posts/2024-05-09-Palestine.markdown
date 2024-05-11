@@ -78,7 +78,12 @@ Pro-Isreal supporters did arrive at the protest and tried to make a scene. It wa
 The protest ended at 10AM in the morning. With no sleep, two-cups of coffee and donuts; my mind started to linger on the war, the protest and humanity, in general. Thucydides quote has become a law of human interaction, `the strong do as they can, while the weak must do as they must.` This statement can't be more relevent and closer to the truth in relation to the times we are living in. Isreal is the military power that has subdued the armless Palestinian masses. As Ilan Pappe states in his book [1]: 
 
 ```
-Once the decision was taken, it took six months to complete the mission. When it was over, more than half of Palestine's native population, close to 800,000 people, had been uprooted, 531 villages had been destroyed, and eleven urban neighbourhoods emptied of their inhabitants. The plan decided upon on 10 March 1948, and above all its sytematic implementation in the following months, was a clear-cut case of an ethnic cleansing operation, regarded under international law today as a crime against humanity.
+Once the decision was taken, it took six months to complete the mission.
+When it was over, more than half of Palestine's native population, close to 800,000 people, 
+had been uprooted, 531 villages had been destroyed, and eleven urban neighbourhoods emptied of their inhabitants. 
+The plan decided upon on 10 March 1948, and above all its sytematic implementation in the following months, 
+was a clear-cut case of an ethnic cleansing operation, 
+regarded under international law today as a crime against humanity.
 
 ```
 
