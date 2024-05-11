@@ -75,7 +75,23 @@ Pro-Isreal supporters did arrive at the protest and tried to make a scene. It wa
 ![Image]({{site.baseurl}}/assets/images/IMG_20231109_230721.jpg)
 *Pro-Isreal supporters at the Isreal Embassy protest*
 
-The protest ended at 10AM in the morning. With no sleep, two-cups of coffee and donuts; my mind started to linger on the war, the protest and humanity, in general. 
+The protest ended at 10AM in the morning. With no sleep, two-cups of coffee and donuts; my mind started to linger on the war, the protest and humanity, in general. Thucydides quote has become a law of human interaction, `the strong do as they can, while the weak must do as they must.` This statement can't be more relevent and closer to the truth in relation to the times we are living in. Isreal is the military power that has subdued the armless Palestinian masses. As Ilan Pappe states in his book [1]: 
+
+```
+Once the decision was taken, it took six months to complete the mission. When it was over, more than half of Palestine's native population, close to 800,000 people, had been uprooted, 531 villages had been destroyed, and eleven urban neighbourhoods emptied of their inhabitants. The plan decided upon on 10 March 1948, and above all its sytematic implementation in the following months, was a clear-cut case of an ethnic cleansing operation, regarded under international law today as a crime against humanity.
+
+```
+
+Isreal is a militaristic, racist and non-liberal enterprise. Isreal is the assimilation of Zionist and colonial tendencies. It wants a homeland for the jews with exclusion or subjugation of native population. Isreal has a strong-hand. It is an economic power, technologically advanced, US-backed and has nukes. It be interesting to see the political climate, if Pakistan was free from the clutches of America and could stand firmly with Palestine cause. Unfortunately, this won't happen.
+
+![Image]({{site.baseurl}}/assets/images/poster.jpg)
+*Image from Instagram*
+
+Where do we go from here? According to John Joseph Mearsheimer (Political Scientist at University of Chicago), US support will start to diminish as the war continues on. This is due to the public pressure and no conclusive end to the war [2]. Further, the war is a costly enterprise, and Congress war budgets have limits. Thirdly, these are times of social media in which information travels at lights speed and it is cumbersome to hide the persecution and killing of innocent citizens. The global pressure is weighing on the Zionist shoulders.
+
 
 ### References
 
+[1] Ilan Pappe, The ethnic cleansing of Palestine, 2006, Page xiii.
+
+[2] John Measheimer on Lex Fridman Podcast, 2023.
