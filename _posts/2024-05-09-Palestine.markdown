@@ -99,4 +99,4 @@ Where do we go from here? According to John Joseph Mearsheimer (Political Scient
 
 [1] Ilan Pappe, The ethnic cleansing of Palestine, 2006, Page xiii.
 
-[2] John Measheimer on Lex Fridman Podcast, 2023.
+[2] John Mearsheimer on Lex Fridman Podcast, 2023.
