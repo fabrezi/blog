@@ -84,3 +84,37 @@ Take amphetamines,
 Watch the sun,
 New day has begun,
 ```
+
+Title: On the go
+
+```
+Let it all go,
+You already know,
+
+There lies your happiness,
+In the enchanted trees,
+
+Be one with animals,
+Read many books,
+
+Understand history,
+Speak different languages,
+
+Be you, be original,
+No need to be regional,
+
+Love from heart,
+From the start,
+
+Command respect,
+Don't ever forget,
+
+That is the best,
+A man with a test,
+
+Shape the minds,
+Break the spines,
+
+Be rich, be sexy,
+Always pay your taxes,
+```
