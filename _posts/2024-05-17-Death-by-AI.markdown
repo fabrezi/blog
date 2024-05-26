@@ -6,5 +6,6 @@ categories: jekyll update
 ---
 
 ![Image]({{site.baseurl}}/assets/images/Robot-AI-image.jpeg)
+*Bard image generation*
 
 COMING SOON!!
