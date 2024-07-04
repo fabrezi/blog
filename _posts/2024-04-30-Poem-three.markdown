@@ -141,7 +141,7 @@ Start your day early,
 Fulfill your duties,
 
 Eat good, love hard,
-Tell her she is pretty,
+Kiss your sweetheart,
 
 Dreams come true,
 When you play blues,
