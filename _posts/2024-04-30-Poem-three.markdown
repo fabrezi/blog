@@ -118,3 +118,37 @@ Break the spines,
 Be rich, be sexy,
 Always pay your taxes,
 ```
+
+Title: Young King
+
+```
+Hey you, yea you, the young king,
+Come with me to the bada bing,
+
+Let me talk to you,
+Hear this piece of advice,
+
+First, relax and breathe,
+See the gold under your feet,
+
+Fill the mind with dreams,
+Watch your critics scream,
+
+Build a bigger brain,
+Learn to play the game,
+
+Start your day early,
+Fulfill your duties,
+
+Eat good, love hard,
+Tell her she is pretty,
+
+Dreams come true,
+When you play blues,
+
+Hey you, yea you, the young king,
+Just always remember one thing,
+
+The eagle is the king of skies,
+As it only knows to hunt and fly,
+```
