@@ -149,6 +149,6 @@ When you play blues,
 Hey you, yea you, the young king,
 Just always remember one thing,
 
-The eagle is the king of skies,
+The eagle is the king the of skies,
 As it only knows to hunt and fly,
 ```
