@@ -15,3 +15,5 @@ categories: jekyll update
 - Java is the new COBOL.
 
 - Ruby > Javascript. 
+
+- Programming is similar to woodwork or carpentry.
