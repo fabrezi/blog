@@ -13,3 +13,5 @@ categories: jekyll update
 - The programming paradigm is the following: Assembly -> C -> Python. Start from the bottom.
 
 - Java is the new COBOL.
+
+- Ruby > Javascript. 
