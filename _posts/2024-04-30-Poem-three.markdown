@@ -157,7 +157,7 @@ Title: People
 
 ```
 People are people,
-Do expect anything more,
+Don't expect anything more,
 
 They will hurt you,
 They will ridicule you,
