@@ -152,3 +152,29 @@ Just always remember one thing,
 The eagle is the king the of skies,
 As it only knows to hunt and fly,
 ```
+
+Title: People
+
+```
+People are people,
+Do expect anything more,
+
+They will hurt you,
+They will ridicule you,
+
+They be jealous of you,
+They be cynical of you,
+
+All in all just be you,
+There is nothing else you can do,
+
+Test out men,
+To find a friend,
+
+Work hard, speak truth,
+Fight the bully and brute,
+
+When you walk the path,
+Don't let the nightingale distract,
+
+```
