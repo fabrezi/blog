@@ -178,3 +178,30 @@ When you walk the path,
 Don't let the nightingale distract,
 
 ```
+
+Title: Ordinary Man
+
+```
+Take away my guitar,
+take away my car,
+
+Take away my glory,
+Take away my booty,
+
+But you can't take away metal,
+From this old bunsen iron ore,
+
+That burns, wrestles, jostles,
+Toils, jabbed, stitched and bruced,
+
+As the river meaning is to find the sea,
+Then the warrior means to stand in battle,
+
+Metal to metal,
+Touch to touch,
+Iron to iron,
+Dust to dust,
+
+The pull of attraction,
+That makes the cupid cringe,
+```
