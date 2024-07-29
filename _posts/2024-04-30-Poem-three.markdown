@@ -205,3 +205,37 @@ Dust to dust,
 The pull of attraction,
 That makes the cupid cringe,
 ```
+
+Title: Mexican girl
+
+```
+All it took was one look,
+All it took was just one look,
+
+Her eyes were deeper then black hole,
+Her long black hair flew in the air,
+
+I sat, wondered and thought,
+Should I say hello or call her sweetheart,
+
+She wore a grey top, tight black shorts,
+Round golden eartops; sent shivers in my heart,
+
+She caught me off-guard,
+Gaze that pierced my soul,
+
+All day, all night,
+I dream of tacos,
+
+Tacos floating in purple space,
+Made of avocado, tortilla and cheese,
+
+Her lips were soft and tender,
+One kiss and I be spanish,
+
+Mexican country girl,
+Took away my quite nights,
+
+Now I look at the start and moon,
+Seeking her location and name,
+```
