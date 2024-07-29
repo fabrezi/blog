@@ -236,6 +236,6 @@ One kiss and I be spanish,
 Mexican country girl,
 Took away my quite nights,
 
-Now I look at the star and the moon,
+I look at the star and the moon,
 Seeking her location and name,
 ```
