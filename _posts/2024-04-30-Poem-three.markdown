@@ -243,7 +243,7 @@ Seeking her location and name,
 Title: The Lost
 
 ```
-Decisions, emotions, prescription,
+Decisions, emotions, prescriptions,
 All will be prescibed time after time,
 
 But in the end how bad do you want it,
@@ -265,5 +265,5 @@ If you have burn the boat,
 Then why worry for the sail,
 
 Go into the wild,
-Discover the govern,
+Discover the governed,
 ```
