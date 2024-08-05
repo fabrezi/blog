@@ -239,3 +239,31 @@ Took away my quite nights,
 I look at the stars and the moon,
 Seeking her location and name,
 ```
+
+Title: The Lost
+
+```
+Decisions, emotions, prescription,
+All will be prescibed time after time,
+
+But in the end how bad do you want it,
+Do you want to straddle on the coast of life,
+
+Do you want to see the golden ticket,
+Taste freedom, gum, guns and google,
+
+There are two roads in the forest,
+There are two pills in the matrix,
+
+One leads to the past,
+The forgotten love, desert,
+
+The other holds the future,
+The intellect, gold mines and fast cars,
+
+If you have burn the boat,
+Then why worry for the sail,
+
+Go into the wild,
+Discover the govern,
+```
