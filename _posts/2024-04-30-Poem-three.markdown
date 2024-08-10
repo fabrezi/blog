@@ -284,7 +284,7 @@ All be settled in dust and bones,
 You won't remember me when I be gone,
 
 My heart has gone back to black,
-I can't remember the deatails or facts,
+I can't remember the details or facts,
 
 I have seen castles turn to dust,
 I have seen metal gone to rust,
@@ -295,8 +295,8 @@ Cities, towns, houses will fall,
 Rainbows will succumb to dark clouds,
 Faces will turn from smile to frowns,
 
-Your lover be list sinner,
-She will end up a stripper,
+Your lover be a lost sinner,
+She will end up as a stripper,
 
 A dog looks for the bone,
 I just want to get stoned,
