@@ -267,3 +267,37 @@ Then why worry for the sail,
 Go into the wild,
 Discover the governed,
 ```
+
+Title: Loverboy II
+
+```
+Lost in the desert,
+Thirsty, broke and dusty,
+
+I am in the search of love,
+To kill this old blue,
+
+There is much to be said,
+But I don't have time for you,
+
+All be settled in dust and bones,
+You won't remember me when I be gone,
+
+My heart has gone back to black,
+I can't remember the deatails or facts,
+
+I have seen castles turn to dust,
+I have seen metal gone to rust,
+
+The sun will burn it all,
+Cities, towns, houses will fall,
+
+Rainbows will succumb to dark clouds,
+Faces will turn from smile to frowns,
+
+Your lover be list sinner,
+She will end up a stripper,
+
+A dog looks for the bone,
+I just want to get stoned,
+```
