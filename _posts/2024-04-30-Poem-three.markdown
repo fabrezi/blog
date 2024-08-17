@@ -301,3 +301,28 @@ She will end up as a stripper,
 A dog looks for the bone,
 I just want to get stoned,
 ```
+
+Title: Broken
+
+```
+Wait, listen, hear me out,
+I got no job, no royal titles,
+
+I got no car, no home,
+I got no dog, no tv,
+
+All I have is a heart,
+Real, hot, burning with love,
+
+You can have it,
+Just don't break it,
+
+Its one and only,
+I get quiet lonely,
+
+My world is an ocean,
+No beggining, no end,
+
+Lover you should save me,
+Kiss me and end my agony,
+```
