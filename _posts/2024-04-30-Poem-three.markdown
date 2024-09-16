@@ -326,3 +326,34 @@ No beggining, no end,
 Lover you should save me,
 Kiss me and end my agony,
 ```
+
+Title: Man Vs World
+
+```
+Make up your mind dear,
+I am fighting for my life,
+
+I sailed a thousand miles,
+To see the past set in dust,
+
+I am here standing tall,
+Don't watch the sun fall,
+
+There are lovers, thieves, devil,
+I am just a man on the next level,
+
+Life is nothing but a tragedy,
+You don't need a grand strategy,
+
+I am a sailor and a lover,
+I don't want to be a heartbreaker,
+
+Take my hand, 
+Take my heart,
+
+Thats is all I got,
+It is all we got,
+
+God makes two of kinds,
+I wonder if your mine,
+```
