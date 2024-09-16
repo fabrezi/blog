@@ -357,3 +357,80 @@ It is all we got,
 God makes two of kinds,
 I wonder if your mine,
 ```
+
+Title: My Angie
+
+```
+I kissed her,
+I kissed her lips,
+
+Her eyes, her breast,
+Her mind, her spine,
+
+I can't stay away,
+Like a dog went stray,
+
+Laying on a boat,
+She softly spoke,
+
+As night summoned,
+We started an armageddon,
+
+Love flames, passionate pleasure,
+There can be no another,
+
+I can't resist her,
+I can't be without her,
+
+She loved to dance,
+I loved to romance,
+
+The sun came,
+She was gone,
+
+I set a new sail,
+This act never fails,
+```
+
+Title: Nikki
+
+```
+I use to love this girl,
+Blonde, tall, hardly talked,
+
+I saw her in my class,
+Fixated on her chest,
+
+I loved her quiet ways,
+The wink, the hiss, the walk,
+
+I couldn't resist her,
+I dreamed her all night,
+
+One day I saw her on my screen,
+She made love to herself,
+
+Ankles tied with red ropes,
+Red lingerie and red lipsticks,
+
+I didn't dream this,
+I didn't manifest this,
+
+But now she is in my house,
+Feeding my cat and drinking milk,
+
+She calls me daddy,
+I become happy,
+
+The earth revolves,
+Around her pretty ankles,
+
+I lay on the sofa,
+Smoke a cigar,
+
+She talks of stars,
+I see one in her eyes,
+
+Love me baby,
+You know you want too,
+```
