@@ -4,9 +4,9 @@ personal blog site
 
 ## Things to do
 
-- []  Email Configuration: This is a major feature. It is to formulate a method
-to receive mail from a certain protocol which is independent of gmail domain.
-Also I want it to use cmd prompt to send/receive messages.
+- []  Three services are to be provided: One of them is the `subscription` button. 
+      The user clicks, add email and gets a thank you message in return. Then any time
+      a new post drops, the user gets the notification.
 
 - []  Donate Button: This depends on the coffee emoji and setting.
 
