@@ -10,7 +10,7 @@ personal blog site
 
 - []  Donate Button: This depends on the coffee emoji and setting.
 
-- [] Add the Soundcloud link to the main page.
+~~ Add the Soundcloud link to the main page.~~
 
   ### References
 
