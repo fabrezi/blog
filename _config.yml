@@ -21,7 +21,7 @@
 title: BLOGS
 email: fkhan14@students.kennesaw.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Programmar, ex-disc jockey, activist.
+  programmar, ex-disc jockey, activist.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://mogulblog.com" # the base hostname & protocol for your site, e.g. http://example.com
 
