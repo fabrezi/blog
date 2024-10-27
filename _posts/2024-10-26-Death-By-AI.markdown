@@ -23,3 +23,9 @@ References
 [1] Peter Norvig, Artificial Intelligence: A Modern Approach, 2004
 
 [2] https://nautil.us/the-man-who-tried-to-redeem-the-world-with-logic-235253/
+
+[3] Marvin Minsky and Seymour A. Papert, Perceptrons: An Introduction to Computational Geometry, 1969
+
+[4] Paul J. Werbos,  The Roots of Backpropagation : From Ordered Derivatives to Neural Networks and Political Forecasting, 1994
+
+[5] 
