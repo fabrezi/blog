@@ -16,7 +16,24 @@ Short History of AI
 LLM
 ---
 
- In the past three years, we have noticed the rise of LLM (Large Language Models) that are able to understand our language and create accurate responses. LLMs are a sub-field of NLP (Natural Language Processing), which is essentially the study of human language and find computational basis for it. NLP falls under two classes: scientific and statistical. The scientific states that language is not only computation but there is more to the story that we currently can not explain. The unexplainable involves things as: origin of language, the mental process, the mind and the concious aspect. This genre of NLP is spearheaded by folks as Noam Chomsky and alike. On the other hand, we have the statistical group that states all languages are a simple probabilistic and Turing complete which can be categorized as computation methods of the brain. This group is lead by Peter Norvig and his followers [6]. 
+ In the past three years, we have noticed the rise of LLM (Large Language Models) that are able to understand our language and create accurate responses. LLMs are a sub-field of NLP (Natural Language Processing), which is essentially the study of human language and find computational basis for it. NLP falls under two classes: scientific and statistical. The scientific states that language is not only computation but there is more to the story that we currently can not explain. The unexplainable involves things as: origin of language, the mental process, the mind and the concious aspect. This genre of NLP is spearheaded by folks as Noam Chomsky and alike. On the other hand, we have the statistical group that states all languages are a simple probabilistic and Turing complete which can be categorized as computation methods of the brain. This group is lead by Peter Norvig and his followers [6]. So who is winning? Currently, we see the emergence of statistical models to be prevalent in llm domain. Essentially, the whole neural network can be seen as a probabilistic calculator, to categorize or make predictions on the given input streams. 
+
+We find that the two schools of thought in the llm field work to achieve different goals. The scientific group is to answer why questions, while the statistical group tries to answer the hows. At core, we can say that there are scientific queries and engineering possibilities. Still, the notions of Chomsky shouldn't be ignored and must be taken under consideration if we actually want to understand what language really is. These are the points purposed by Chomsky (though they are explained in my simple language):
+
+1. Language is a tool to create thought. Language is not designed for communication. It is a by-product of language properties. 
+
+2. Language is not only computation but has metaphysical properties that modern science, currently, can not explain. This brings in the notion of the origin of language. Many theories but nothing concrete for the time being.
+
+3. Animals have sound. Humans are the only species that posses the power of language.
+
+4. Computers can imitate to understand and respond to our queries, but that doesn't mean it is a rational agent or concious.
+
+5. The origin of language might possibly have genetic endowmnet or forebearing. It is in our genes to create language. 
+
+6. Language is infinite. We use a set of rules (grammar) and a set of alphabets or characters to create an endless stream of thoughts and ideas.
+
+These are the important points that I picked from the scientific perspective. Statistical models have nothing, even remotely, to answer about such notions. As long it works, it will be adopted. But, as users of chatbots we must understand that the mysteries of language are still prevalent though the bots can write essays, create pdfs and create code in matter of seconds.
+
 
 
 AGI
