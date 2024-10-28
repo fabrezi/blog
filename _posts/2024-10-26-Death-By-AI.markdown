@@ -16,6 +16,8 @@ Short History of AI
 LLM
 ---
 
+ In the past three years, we have noticed the rise of LLM (Large Language Models) that are able to understand our language and create accurate responses. LLMs are a sub-field of NLP (Natural Language Processing), which is essentially the study of human language and find computational basis for it. NLP falls under two classes: scientific and statistical. The scientific states that language is not only computation but there is more to the story that we currently can not explain. The unexplainable involves things as: origin of language, the mental process, the mind and the concious aspect. This genre of NLP is spearheaded by folks as Noam Chomsky and alike. On the other hand, we have the statistical group that states all languages are a simple probabilistic and Turing complete which can be categorized as computation methods of the brain. This group is lead by Peter Norvig and his followers [6]. 
+
 
 AGI
 ----
@@ -37,3 +39,5 @@ References
 [4] Paul J. Werbos,  The Roots of Backpropagation : From Ordered Derivatives to Neural Networks and Political Forecasting, 1994
 
 [5] Ashish Vaswani, Attention Is All You Need, 2017
+
+[6] https://norvig.com/chomsky.html
