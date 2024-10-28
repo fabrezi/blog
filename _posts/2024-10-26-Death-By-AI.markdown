@@ -44,6 +44,7 @@ AGI
 ----
 
 ![Image]({{site.baseurl}}/assets/images/1984.PNG)
+*AGI can become evil and it will become the next big brother*
 
 AGI (Artificial General Intelligence) is the pinnacle of AI. It is a point of intelligence, when the neural net won't need datasets to churn into information but it will have the capacity to think, understand and create thoughts similar to humans. As it will have exponential computing power, the AGI will be supreme intelligence and be able to solve human task with less effort. 
 
