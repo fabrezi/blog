@@ -36,14 +36,16 @@ We find that the two schools of thought in the llm field work to achieve differe
 
 6. Language is infinite. We use a set of rules (grammar) and a set of alphabets or characters to create an endless stream of thoughts and ideas.
 
-These are the important points that I picked from the scientific perspective. Statistical models have nothing, even remotely, to answer about such notions. As long it works, it will be adopted. But, as users of chatbots we must understand that the mysteries of language are still prevalent though the bots can write essays, create pdfs and create code in matter of seconds, and look and sound as if talking to a real person. Its an imitation game.
+These are the important points that I picked from the scientific perspective. Statistical models have nothing, even remotely, to answer about such notions. As long as it works, it will be adopted. But, as users of chatbots we must understand that the mysteries of language are still prevalent though the bots can write essays, create pdfs and create code in matter of seconds, and look and sound as if talking to a real person. Its an imitation of speech, it is not the comprehension and understanding of language. Chatbots are still similar to a smart parrot.
 
 
 
 AGI
 ----
 
+![Image]({{site.baseurl}}/assets/images/1984.PNG)
 
+AGI (Artificial General Intelligence) is the pinnacle of AI. It is a point of intelligence, when the neural net won't need datasets to churn into information but it will have the capacity to think, understand and create thoughts similar to humans. As it will have exponential computing power, the AGI will be supreme intelligence and be able to solve human task with less effort. 
 
 
 
