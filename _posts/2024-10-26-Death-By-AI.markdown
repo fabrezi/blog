@@ -13,6 +13,10 @@ Short History of AI
  In 1969, the Minsky XOR problem was published [3]. It stated that a single-layer perceptron (the simplest neural network) is unable to solve the XOR problem (give true output of the two parameters of an input are similar, else it gives false output). This innocouous problem proved to be devastating to the AI field and it caused the AI- winter to set in. It took decades to realize that a multi-layer perceptron can potentially solve the Minsky's problem. Another theorem that brought resurgence of AI was `backpropagation algorithm`, which allows the neural weights to be adjusted in relation to the error that is accumulated on the predictions [4]. Faster computing power with the advent of GPU (General Processing Unit) and the emergence of large data sets has allowed the widespread adoption of neural network or machine learning technologies. In my personal experience, the advent of faster computer or online clusters and the open-source data sets has been a game-changer. A recent invention of the `Transformers` have become staple in order to make learning models work faster and better in all AI-applications [5]. 
 
 
+AGI
+----
+
+
 
 
 
