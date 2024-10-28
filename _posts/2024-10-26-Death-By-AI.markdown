@@ -6,6 +6,7 @@ categories: jekyll update
 ---
  
 ![Image]({{site.baseurl}}/assets/images/mcullogh-pitts.PNG)
+*Warren McCulloch and Walter Pitts - the forefathers of Artificial Neural Network*
 
 
 Short History of AI
