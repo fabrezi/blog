@@ -36,11 +36,9 @@ We find that the two schools of thought in the llm field work to achieve differe
 
 6. Language is infinite. We use a set of rules (grammar) and a set of alphabets or characters to create an endless stream of thoughts and ideas.
 
-These are the important points that I picked from the scientific perspective. Statistical models have nothing, even remotely, to answer about such notions. As long as it works, it will be adopted. But, as users of chatbots we must understand that the mysteries of language are still prevalent though the bots can write essays, create pdfs and create code in matter of seconds, and look and sound as if talking to a real person. Its an imitation of speech, it is not the comprehension and understanding of language. Chatbots are still similar to a smart parrot.
+These are the important points that I picked from the scientific perspective. Statistical models have nothing, even remotely, to answer about such notions. As long as it works, it will be adopted. But, as users of chatbots we must understand that the mysteries of language are still prevalent though the bots can write essays, create pdfs and create code in matter of seconds, and look and sound as if talking to a real person. Its an imitation of speech, it is not the comprehension and understanding of language. Chatbots are still similar to a smart parrot. 
 
-![Image]({{site.baseurl}}/assets/images/ai-do-laundry.PNG)
-
-I agree with the aforementioned image. We need dummer AI not smart ones to replace us at our jobs. These bots need to smart enough to understand our statements, follow orders as prescribed and perform daily chores that we (humans) find drudgery, mundane and simple boring. There is a potentially a large market for robots to handle our daily household task, that includes dusting, washing clothes, mopping floors, doing dishes, cooking and making our beds. Once the llm models are connected to robots that can move and function easily, it will make the assistant bots into a reality. A project I started in relation to dumb-AI is following: (https://github.com/fabrezi/DUMBO). Fresh and new ideas are always welcomed. 
+I do believe that cuurent llm models will reach a plateau and will have a similar fate as the iphones have. The bots will get better with the course of time, but it will be limited in scope and not meaningful to the average user. Iphones, each year, don't get better in any shape or form. A phone is designed to make phone calls (which surprisingly doesn't work that well) and to send text. Rest of all the other properties are advertisments and to keep the customers engaged for as long as possible. I do think that technology does progresses but the large shitfs or user value is added each year. The previous phone from 5 years ago is still good to be used as the newest one. Same occurrnence will be seen in the llm models. 
 
 AGI
 ----
@@ -50,6 +48,8 @@ AGI
 *AGI can become evil and it will become the next big brother*
 
 AGI (Artificial General Intelligence) is the pinnacle of AI. It is a point of intelligence, when the neural net won't need datasets to churn into information but it will have the capacity to think, understand and create thoughts similar to humans. As it will have exponential computing power, the AGI will be supreme intelligence and be able to solve human task with less effort. 
+
+A former OpenAi employee, Leopold Aschenbrenner, wrote an article that has spread interest and worry in the AI society [7]. 
 
 
 
@@ -68,3 +68,5 @@ References
 [5] Ashish Vaswani, Attention Is All You Need, 2017
 
 [6] https://norvig.com/chomsky.html
+
+[7] Leopold Aschenbrenner, Situational Awareness: The Decade Ahead, 2023
