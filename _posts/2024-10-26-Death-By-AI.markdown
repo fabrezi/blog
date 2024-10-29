@@ -38,7 +38,9 @@ We find that the two schools of thought in the llm field work to achieve differe
 
 These are the important points that I picked from the scientific perspective. Statistical models have nothing, even remotely, to answer about such notions. As long as it works, it will be adopted. But, as users of chatbots we must understand that the mysteries of language are still prevalent though the bots can write essays, create pdfs and create code in matter of seconds, and look and sound as if talking to a real person. Its an imitation of speech, it is not the comprehension and understanding of language. Chatbots are still similar to a smart parrot.
 
+![Image]({{site.baseurl}}/assets/images/ai-do-laundry.PNG)
 
+I agree with the aforementioned image. We need dummer AI not smart ones to replace us at our jobs. These bots need to smart enough to understand our statements, follow orders as prescribed and perform daily chores that we (humans) find drudgery, mundane and simple boring. 
 
 AGI
 ----
