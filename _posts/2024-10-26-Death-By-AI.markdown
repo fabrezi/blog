@@ -40,7 +40,7 @@ These are the important points that I picked from the scientific perspective. St
 
 ![Image]({{site.baseurl}}/assets/images/ai-do-laundry.PNG)
 
-I agree with the aforementioned image. We need dummer AI not smart ones to replace us at our jobs. These bots need to smart enough to understand our statements, follow orders as prescribed and perform daily chores that we (humans) find drudgery, mundane and simple boring. There is a potentially a large market for robots to handle our daily household task, that includes dusting, washing clothes, mopping floors, doing dishes, cooking and making our beds. Once the llm models are connected to robots that can move and function easily, it will make the assistant bots into a reality. 
+I agree with the aforementioned image. We need dummer AI not smart ones to replace us at our jobs. These bots need to smart enough to understand our statements, follow orders as prescribed and perform daily chores that we (humans) find drudgery, mundane and simple boring. There is a potentially a large market for robots to handle our daily household task, that includes dusting, washing clothes, mopping floors, doing dishes, cooking and making our beds. Once the llm models are connected to robots that can move and function easily, it will make the assistant bots into a reality. A project I started in relation to dumb-AI is following: (https://github.com/fabrezi/DUMBO). Fresh and new ideas are always welcomed. 
 
 AGI
 ----
