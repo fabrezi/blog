@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   programmar, ex-disc jockey, activist.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://mogulblog.com" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: "moguldaone"
-linkedin_username: "fareed-khan-869031138"
+#instagram_username: "moguldaone"
+#linkedin_username: "fareed-khan-869031138"
 
 #defaults:
  #- scope:
