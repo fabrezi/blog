@@ -49,7 +49,11 @@ AGI
 
 ![Image]({{site.baseurl}}/assets/images/scott.PNG)
 
-AGI (Artificial General Intelligence) is a term used for thinking machines. These machines will be capable of having original thoughts, analogous to human beings. But due to there immense memory and computing power, these machines will have the capacity of richer and profound thoughts. Still, AGI has been seen as a philosophic topic rather then actual scientific endeavour. But I will present a diagram that will make place AGI in context:
+AGI (Artificial General Intelligence) is a term used for thinking machines. These machines will be capable of having original thoughts, analogous to human beings. But due to there immense memory and computing power, these machines will have the capacity of richer and profound thoughts. Still, AGI has been seen as a philosophic topic rather then actual scientific endeavour. But I will present a diagram that will make place AGI in context (as aforementioned) [8].
+
+It states that our future can take five directions:
+
+1. AI-fizzle: 
 
 
 
