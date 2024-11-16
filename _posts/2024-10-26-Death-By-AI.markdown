@@ -22,6 +22,8 @@ Short History of AI
 LLM
 ---
 
+![Image]({{site.baseurl}}/assets/images/robots.PNG)
+
  In the past five years, we have noticed the rise of LLM (Large Language Models) that are able to understand our language and create accurate responses. LLMs are a sub-field of NLP (Natural Language Processing), which is essentially the study of human language and to find computational basis for language generation. NLP falls under two classes: scientific and statistical. The scientific states that language is not only computation but there is more to the story that we currently can not explain. The unexplainable involves things as: origin of language, the mental processes, the minds contribution in language and the concious aspect. This genre of NLP is spearheaded by folks as Noam Chomsky and alike. On the other hand, we have the statistical group that states all languages are probabilistic in nature and are Turing complete (so any machine can perform the task of language acquisition as humans are able to). This group is lead by Peter Norvig and his followers [6]. So who is winning? Currently, we see the emergence of statistical models to be prevalent in llm domain. Essentially, the whole neural network can be seen as a probabilistic calculator, which categorizes and makes predictions on the given input streams. 
 
 We find that the two schools of thought in the llm field work to achieve different goals. The scientific group is to answer why questions, while the statistical group tries to answer the hows. At core, we can say that there are scientific queries and engineering possibilities. Still, the notions of Chomsky shouldn't be ignored and must be taken under consideration if we actually want to understand what language really is. These are the points purposed by Chomsky (though they are explained in my simple language):
@@ -45,12 +47,9 @@ I do believe that current llm models will reach a plateau and will have a simila
 AGI
 ----
 
-![Image]({{site.baseurl}}/assets/images/robots.PNG)
-
+![Image]({{site.baseurl}}/assets/images/scott.PNG)
 
 AGI (Artificial General Intelligence) is a term used for thinking machines. These machines will be capable of having original thoughts, analogous to human beings. But due to there immense memory and computing power, these machines will have the capacity of richer and profound thoughts. Still, AGI has been seen as a philosophic topic rather then actual scientific endeavour. But I will present a diagram that will make place AGI in context:
-
-![Image]({{site.baseurl}}/assets/images/scott.PNG)
 
 
 
