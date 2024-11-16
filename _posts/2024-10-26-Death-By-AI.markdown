@@ -45,9 +45,7 @@ I do believe that current llm models will reach a plateau and will have a simila
 AGI
 ----
 
-![Image]({{site.baseurl}}/assets/images/1984.PNG)
-
-*AGI can become evil and it will become the next big brother*
+![Image]({{site.baseurl}}/assets/images/robots.PNG)
 
 
 
