@@ -23,6 +23,7 @@ LLM
 ---
 
 ![Image]({{site.baseurl}}/assets/images/robots.PNG)
+*Modern chatbots can pass Turing Test and have seamless conversations.*
 
  In the past five years, we have noticed the rise of LLM (Large Language Models) that are able to understand our language and create accurate responses. LLMs are a sub-field of NLP (Natural Language Processing), which is essentially the study of human language and to find computational basis for language generation. NLP falls under two classes: scientific and statistical. The scientific states that language is not only computation but there is more to the story that we currently can not explain. The unexplainable involves things as: origin of language, the mental processes, the minds contribution in language and the concious aspect. This genre of NLP is spearheaded by folks as Noam Chomsky and alike. On the other hand, we have the statistical group that states all languages are probabilistic in nature and are Turing complete (so any machine can perform the task of language acquisition as humans are able to). This group is lead by Peter Norvig and his followers [6]. So who is winning? Currently, we see the emergence of statistical models to be prevalent in llm domain. Essentially, the whole neural network can be seen as a probabilistic calculator, which categorizes and makes predictions on the given input streams. 
 
@@ -48,6 +49,7 @@ AGI
 ----
 
 ![Image]({{site.baseurl}}/assets/images/scott.PNG)
+*The future prospects of AI includes multiple paths that humanity can end up in.*
 
 AGI (Artificial General Intelligence) is a term used for thinking machines. These machines will be capable of having original thoughts, analogous to human beings. But due to there immense memory and computing power, these machines will have the capacity of richer and profound thoughts. Still, AGI has been seen as a philosophic topic rather then actual scientific endeavour. But I will present a diagram that will make place AGI in context (as aforementioned) [8]. This is the work of Scott Aaronson (legendary computer theorist).
 
@@ -65,7 +67,7 @@ It states that our future can take five directions:
 
 It is more then likely that we will head towards an `AI-Dystopia`. As Leopold states in his interesting article, that we are heading towards the militarisation of AI-technology [7]. Just as internet and nuclear power spiraled out of the research, funding and support of US government, there is high chance that AI will follow the same course. The ruling elite and the military-complex would want to control the AI and use it as a weapon against democratic forces, the masses and other adversarial nation-states. We will see the realization of Orwell's nightmare, the big brother marching all over the innocent people. 
 
-
+I hold the believe that the creation always carries the remnants of the creator. As such, AGI will be the supreme creation of humanity (if possibly conceived) and will likely be the last one. Further, there is a possibility that AGI will replicate humans dark nature, such as: racism, hate, anger, etc. It will either make decisions, indiviually, to maximize an optimal gain and this course of action may spell doom for humanity. Else it will serve the master of mankind and leave the masses to suffer. We must remain skeptic of modern technologies and critique the policies and doings of the politicians. 
 
 References
 ----------------
