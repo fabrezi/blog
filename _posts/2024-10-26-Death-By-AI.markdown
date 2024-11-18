@@ -63,7 +63,7 @@ It states that our future can take five directions:
 
 5. Paperclipalyse: The AI becomes extremely powerful and chooses to be evil. In this scenario, the AI doesn't see value in human life and see humans as a nuisance. It will work to imprison, subordinate or eradicate the human civilzation and rule the world as a singular entity.
 
-It is more then likely that we will head towards an `AI-Dystopia`. As Leopold states in his interesting article, that we are heading towards the militarisation of AI-technology. Just as internet and nuclear power spiraled out of the research, funding and support of US government, there is high chance that AI will follow the same course. The ruling elite and the military-complex would want to control the AI and use it as a weapon against democratic forces, the masses and other adversarial nation-states. We will see the realization of Orwell's nightmare, the big brother marching all over the innocent people. 
+It is more then likely that we will head towards an `AI-Dystopia`. As Leopold states in his interesting article, that we are heading towards the militarisation of AI-technology [7]. Just as internet and nuclear power spiraled out of the research, funding and support of US government, there is high chance that AI will follow the same course. The ruling elite and the military-complex would want to control the AI and use it as a weapon against democratic forces, the masses and other adversarial nation-states. We will see the realization of Orwell's nightmare, the big brother marching all over the innocent people. 
 
 
 
