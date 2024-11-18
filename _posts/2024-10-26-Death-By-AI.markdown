@@ -49,11 +49,13 @@ AGI
 
 ![Image]({{site.baseurl}}/assets/images/scott.PNG)
 
-AGI (Artificial General Intelligence) is a term used for thinking machines. These machines will be capable of having original thoughts, analogous to human beings. But due to there immense memory and computing power, these machines will have the capacity of richer and profound thoughts. Still, AGI has been seen as a philosophic topic rather then actual scientific endeavour. But I will present a diagram that will make place AGI in context (as aforementioned) [8].
+AGI (Artificial General Intelligence) is a term used for thinking machines. These machines will be capable of having original thoughts, analogous to human beings. But due to there immense memory and computing power, these machines will have the capacity of richer and profound thoughts. Still, AGI has been seen as a philosophic topic rather then actual scientific endeavour. But I will present a diagram that will make place AGI in context (as aforementioned) [8]. This is the work of Scott Aaronson (legendary computer theorist).
 
 It states that our future can take five directions:
 
-1. AI-fizzle: 
+1. AI-fizzle: AI will at best be a consumer product. AI research will plateau and we will have AI products that will serve the modern world, such as: selfless driving, nursing robots, sophisticated large language models and privacy systems. In this situation, AI will be over-engineered but there will be no scientific breakthroughs. The future won't look any different then the present.
+
+2. Futurama: This is the happy path in which the AI becomes a true revolution which will help to elevate the masses. 
 
 
 
@@ -73,3 +75,5 @@ References
 [6] https://norvig.com/chomsky.html
 
 [7] Leopold Aschenbrenner, Situational Awareness: The Decade Ahead, 2023
+
+[8] https://scottaaronson.blog/?p=7266
