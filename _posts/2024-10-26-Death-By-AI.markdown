@@ -55,7 +55,15 @@ It states that our future can take five directions:
 
 1. AI-fizzle: AI will at best be a consumer product. AI research will plateau and we will have AI products that will serve the modern world, such as: selfless driving, nursing robots, sophisticated large language models and privacy systems. In this situation, AI will be over-engineered but there will be no scientific breakthroughs. The future won't look any different then the present.
 
-2. Futurama: This is the happy path in which the AI becomes a true revolution which will help to elevate the masses. 
+2. Futurama: This is the happy path in which the AI becomes a true revolution which will help to elevate the masses. AI will work, side by side, with human specialist (in variety of domains) to curb poverty, spread of diseases and make monetary gains.
+
+3. AI- Dystopia: This is the opposite of Futurama in which few elites rule the world through the powers endowed by AI and modern machines. In this world, the notion of big brother becomes a reality and we will create a world in which each thought and action of the citizens will be monitored and the masses will controlled with the asssitance of AI.
+
+4. Singularia: In this world, AI will become sentient and supersede ,exponentially, humans in intelligence. Humans may become obsolete as the machines can perform all the task that commonly are done by homo sapiens. Humans may potentially integrate themselves with the machines to become superhuman. Further, AI may be seen as a demigod and be kind to humans. It will help us to make a paradise on the earth and create a timeless simulation in which all our desires and pleasures are taken care of.
+
+5. Paperclipalyse: The AI becomes extremely powerful and chooses to be evil. In this scenario, the AI doesn't see value in human life and see humans as a nuisance. It will work to imprison, subordinate or eradicate the human civilzation and rule the world as a singular entity.
+
+It is more then likely that we will head towards an `AI-Dystopia`. As Leopold states in his interesting article, that we are heading towards the militarisation of AI-technology. Just as internet and nuclear power spiraled out of the research, funding and support of US government, there is high chance that AI will follow the same course. The ruling elite and the military-complex would want to control the AI and use it as a weapon against democratic forces, the masses and other adversarial nation-states. We will see the realization of Orwell's nightmare, the big brother marching all over the innocent people. 
 
 
 
