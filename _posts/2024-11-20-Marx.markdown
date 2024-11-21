@@ -8,4 +8,4 @@ categories: jekyll update
 ![Image]({{site.baseurl}}/assets/images/marx.jpg)
 *Image at a tunnel in Silver Comet Trail- Atlanta*
 
-COMING SOON!!
+COMING SOON TO YOUR LOCAL BROWSER!!
