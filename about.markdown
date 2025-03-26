@@ -26,3 +26,4 @@ These are the blogs, articles and news-links that I read:
 - [SportsSchedule](https://www.foxsports.com/scores)
 - [MathPuzzles](https://www.cut-the-knot.org/)
 - [CharlesStuff](https://www.charlespetzold.com/)
+- [GeoRant](https://geohot.github.io/blog/)
