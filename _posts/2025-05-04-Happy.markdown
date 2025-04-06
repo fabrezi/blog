@@ -6,3 +6,7 @@ categories: jekyll update
 ---
 
 ![Image]({{site.baseurl}}/assets/images/books.PNG)
+
+I read Imam Ghazali's book The Alchemy of Happiness. Its the kind of book that you must read over and over again. It has something new to teach everytime you come back to it. In simplistic terms it says that a pure soul is the key to happiness. I will try to expand on the notion of soul and happiness.
+
+
