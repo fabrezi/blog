@@ -27,3 +27,4 @@ These are the blogs, articles and news-links that I read:
 - [MathPuzzles](https://www.cut-the-knot.org/)
 - [CharlesStuff](https://www.charlespetzold.com/)
 - [GeoRant](https://geohot.github.io/blog/)
+- [SimonBlog](https://simonsafar.com/)
