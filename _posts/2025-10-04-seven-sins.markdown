@@ -23,8 +23,11 @@ Something stranger started to happen as he made his way to the top. He started t
 Jhonny felt abit better and saw the group of lads praising, reading, kissing, worshipping a stone. He didn't know what to make of it. Then Jhonny made his way to the stone and read a message:
 
 TO ALL THE MORTAL MAN.
+
 TO ALL THE MILLENIALS.
+
 TO ALL THE YOUTH.
+
 TO ALL THE CHILDREN OF ADAM.
 
 REMEMBER THUS MESSAGE.
