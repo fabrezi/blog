@@ -16,7 +16,6 @@ These are the blogs, articles and news-links that I read:
 - [Fiction](https://raphaeljeanpierreblog.wordpress.com/?ref=spelling)
 - [LinuxNews](https://lwn.net/)
 - [GamerBlog](https://www.erasmatazz.com)
-- [Indie-dev](https://blog.gingerbeardman.com/)
 - [ScottBlog](https://scottaaronson.blog/)
 - [DawnNews](https://www.dawn.com/)
 - [NYT](https://www.nytimes.com/)
