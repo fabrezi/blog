@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "On Eatsy"
-date:   2026-25-02 22:58:22 -0400
+date:   2026-05-02 22:58:22 -0400
 categories: jekyll update
 ---
 
 I joined Bank Alfalah in July 2025. One of the first task, I was assigned, was to sell Alfalah Prepaid Card. Not a credit card but a prepaid card. Two questions are raised. 1. why the hell is a bank making prepaid cards (a pre-loaded card)? and 2. Is this a scam or not?
 
-I have never seen or expierenced a bank that spends a large budget to make low-quality, inexpensive and unmarketable cards. In my personal experience, none of my clients feel compelled to use a prepaid card for their everyday expenditures.
+I have never seen or experienced a bank that spends a large budget to make low-quality, inexpensive and unmarketable cards. In my personal experience, none of my clients feel compelled to use a prepaid card for their everyday expenditures.
 
 There are two reasons for such an agenda. 1. Our CDO, Yahya Khan, a brilliant guy, is one of the pioneers of prepaid card revolution. He was the CEO of Easypaisa (a highly successfull prepaid card spinoff). So, it's natural for him to propound the same ideas that brought him prior accolades. 2. The SBP (State Bank of Pakistan) has an agenda to move Pakistan economy to a cashless society. This is good to modernize the economy and curb the flow of black-money.
 
