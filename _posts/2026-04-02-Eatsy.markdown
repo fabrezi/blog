@@ -5,6 +5,8 @@ date:   2026-05-01 13:00:00 -0400
 categories: jekyll update
 ---
 
+![Image]({{site.baseurl}}/assets/images/eatsy-pictutre.PNG)
+
 I joined Bank Alfalah in July 2025. One of the first task, I was assigned, was to sell Alfalah Prepaid Card. Not a credit card but a prepaid card. Two questions are raised. 1. why the hell is a bank making prepaid cards (a pre-loaded card)? and 2. Is this a scam or not?
 
 I have never seen or experienced a bank that spends a large budget to make low-quality, inexpensive and unmarketable cards. In my personal experience, none of my clients feel compelled to use a prepaid card for their everyday expenditures.
