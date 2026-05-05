@@ -13,7 +13,7 @@ There are two reasons for such an agenda. 1. Our CDO, Yahya Khan, a brilliant gu
 
 So why am I complaining? Because there is literally no market for this product and it's a low-quality instrument. Bank Alfalah (ALFA) is a good bank. It's the off-spring of BCCI bank (a legendary bank of Pakistan that was closed down due to foreign influence). But there digital products and fancy products aren't holding up to the company brand and standards.
 
-Personally, I would never use the ALFA prepaid card or advise anyone to do so. If you are affliated with such a bank, it's 10x times to make an actual card (credit or debit card). It's the international standard and it's security is globally recognized. ALFA prepaid cards is made by folks who don't know software, let alone banking. These are the following core issues:
+Personally, I would never use the ALFA prepaid card or advise anyone to do so. If you are affliated with such a bank, it's 10 times better to make an actual card (credit or debit card). It's the international standard and it's security is globally recognized. ALFA prepaid cards is made by folks who don't know software, let alone banking. These are the following core issues:
 
 1. `There is no market for this product:` I personally have made more then 700+ of these cards for my clientele. No one is interested in using them. Why? Because there is no market for a toy card. People with money use actual cards. The poor people, do fine with cash. Note: cash is king. 
 
@@ -22,5 +22,7 @@ Personally, I would never use the ALFA prepaid card or advise anyone to do so. I
 3. `The application runs on React:` This is the worst choice to base a banking application on React ecosystem. React is a legacy technology. It's been duct-taped and stitched together, to be functional for modern web. React is slow, unreliable, and a burden for the current developers. The application is garbage. This is a further red flag. 
 
 4. `There is no security measures:` Everyone who uses this card must first sign up through their NIC and mobile number. This data remains on the server in a .txt file. Anyone who has an access to the server and read the data and stalk the customer.(I am a culprit of such devious activities as well).
+
+Lastly, Is this all a scam? Not really. Scam is defined as the illegal activity to sell product B, when the client paid to product A. There are restraunts listed on the application that don't even take the prepaid card. Many times, the user doesn't get the required cashback. It's not that the prepaid card operates as a scam. They have a garbage product that doesn't work on scale. In conclusion, they are too dumb and unprofessional to operate a scam. It's a flawed product.
 
 I predict the ALFA prepaid card will be a big failure and the upper management will pull the plug once they see the actual auditing reports. The only question remains is when?
