@@ -5,7 +5,7 @@ date:   2026-05-01 13:00:00 -0400
 categories: jekyll update
 ---
 
-![Image]({{site.baseurl}}/assets/images/eatsy-pictutre.jpg)
+![Image]({{site.baseurl}}/assets/images/eatsy-picture.jpg)
 
 I joined Bank Alfalah in July 2025. One of the first task, I was assigned, was to sell Alfalah Prepaid Card. Not a credit card but a prepaid card. Two questions are raised. 1. why the hell is a bank making prepaid cards (a pre-loaded card)? and 2. Is this a scam or not?
 
@@ -19,11 +19,11 @@ Personally, I would never use the ALFA prepaid card or advise anyone to do so. I
 
 1. `There is no market for this product:` I personally have made more then 700+ of these cards for my clientele. No one is interested in using them. Why? Because there is no market for a toy card. People with money use actual cards. The poor people, do fine with cash. Note: cash is king. 
 
-2. `ALFA prepaid card is in loss:` I don't have the actual data regarding the cost and profit analysis of the prepaid card, but as I heard from my peers, the product is in loss gain. It's operating cost is higher then the actual in-flow of cash. This solidifies my point 1. There is no market for this card.
+2. `ALFA prepaid card profits is in negatives:` I don't have the actual data regarding the cost and profit analysis of the prepaid card, but as I heard from my peers, the product is in loss. It's operating cost is higher then the actual in-flow of cash. Further, the cashback is based on the float income which is never stable. If the customers don't put money in the card, then there is no revenue. No revenue leads to no interest. Therefore, the product profits are below 0. 
 
 3. `The application runs on React:` This is the worst choice to base a banking application on React ecosystem. React is a legacy technology. It's been duct-taped and stitched together, to be functional for modern web. React is slow, unreliable, and a burden for the current developers. The application is garbage. This is a further red flag. 
 
-4. `There is no security measures:` Everyone who uses this card must first sign up through their NIC and mobile number. This data remains on the server in a .txt file. Anyone who has an access to the server and read the data and stalk the customer.(I am a culprit of such devious activities as well).
+4. `There is no security measures:` Everyone who uses this card must first sign up through their NIC and mobile number. This data remains on the server in a .txt file. There is no encryption mechanism or a way to make the private data discreet. Anyone who has an access to the server, can read the data and  stalk the customer.
 
 5. `There is no helpline:` The Eatsy team didn't bother to create a helpline service to resolve customer's issues. If the client doesn't get his cashback or the card stops working, then he/ she is left to his wits. The customer ends up choking the merchant and breaking the restraunts window. This is unprofessional and bad policy model.
 
