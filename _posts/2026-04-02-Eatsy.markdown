@@ -21,7 +21,7 @@ Personally, I would never use the ALFA prepaid card or advise anyone to do so. I
 
 2. `ALFA prepaid card profit is in negatives:` I don't have the actual data regarding the cost and profit analysis of the prepaid card, but as I heard from my peers, the product is in loss. It's operating cost is higher then the actual in-flow of cash. Further, the cashback is based on the float income which is never stable. If the customers don't put money in the card, then there is no revenue. No revenue leads to no interest. Therefore, the product profits are below 0. 
 
-3. `The application runs on React:` This is the worst choice to base a banking application on React ecosystem. React is a legacy technology. It's been duct-taped and stitched together, to be functional for modern web. React is slow, unreliable, and a burden for the current developers. The application is garbage. This is a further red flag. 
+3. `The application runs on React:` This is the worst choice to base a banking application on React ecosystem. [React](https://infrequently.org/2024/11/if-not-react-then-what/) is a legacy technology. It's been duct-taped and stitched together, to be functional for modern web. React is slow, unreliable, and a burden for the current developers. The application is garbage. This is a further red flag. 
 
 4. `There is no security measures:` Everyone who uses this card must first sign up through their NIC and mobile number. This data remains on the server in a .txt file. There is no encryption mechanism or a way to make the private data discreet. Anyone who has an access to the server, can read the data and  stalk the customer.
 
