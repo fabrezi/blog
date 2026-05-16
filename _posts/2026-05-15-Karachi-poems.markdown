@@ -118,7 +118,7 @@ Is she an angel or fairy,
 This heart is heavy to carry,
 
 When she walks in a room,
-I sense her rose-pellat perfume,
+I sense her rose-pallet perfume,
 
 When our eyes meet,
 Two stars collide,
@@ -190,7 +190,7 @@ He smells the teen spirit in the air,
 Nurses robes, red lips and perspiration is near,
 
 He takes their identities and cell- numbers,
-A palyboy that sells a fatasy at nights,
+A playboy that gives favors and back rubs,
 
 Takes the girl out on dates,
 All the harwork has gone to waste,
