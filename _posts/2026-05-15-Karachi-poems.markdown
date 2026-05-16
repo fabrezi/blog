@@ -111,7 +111,7 @@ Has turned me into a mess,
 Long, curly, black hair,
 I can be lost for years,
 
-Smnile that melts me,
+Smile that melts me,
 Eyes that talk to me,
 
 Is she an angel or fairy,
