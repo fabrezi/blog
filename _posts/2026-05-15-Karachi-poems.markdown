@@ -257,8 +257,8 @@ Your thoughts, your dreams,
 Let me spoil you,
 Eating at Xanders,
 
-Shopping at Sara Safina,
-Swimming in the Indian ocean,
+Shopping at Maria B.,
+Smoking at cafe shafe,
 
 Let me give you,
 My love, my seed,
