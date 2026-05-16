@@ -193,7 +193,7 @@ He takes their identities and cell- numbers,
 A playboy that gives favors and back rubs,
 
 Takes the girl out on dates,
-All the harwork has gone to waste,
+All the hardwork has gone to waste,
 
 Bring in the numbers, do top-ups and transactions,
 Every salesman is the devil's hand maiden,
