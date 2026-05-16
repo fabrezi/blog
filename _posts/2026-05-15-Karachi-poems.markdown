@@ -58,7 +58,7 @@ All are awaiting on hell's gate,
 There is no God, no government,
 No superheroes, no money,
 
-REality is fake,
+Resality is fake,
 Mango's have no taste,
 
 Peasants are full of hate,
@@ -125,5 +125,145 @@ Two stars collide,
 
 Palak, haleem, pasta,
 I can't live without ya,
+```
+
+Title: Hazara girl
+
+```
+Pretty as a picture,
+She looks alright to me,
+
+Heaven she was made,
+Then she was taken from me,
+
+My heart is broken,
+But no one could see,
+
+Laying naked in fields,
+Baby, I am on my knees,
+
+Hell awaits for judgement,
+Let's see if it was made for me,
+
+Love has swallowed me,
+Now, I can't be set free,
+
+You are all I see,
+Baby, you don't even know me,
+```
+
+Title: Barbie doll
+
+```
+Barbie bites the dust,
+I am going to let her rust,
+
+No one to comb her hair,
+No one to take care,
+
+Her pink frock has dirt,
+I won't clean the turd,
+
+The lipstick has faded,
+I am so jaded,
+
+Barbie is laid to rest,
+It is for the best,
+
+The make-up is smeared,
+I have no fear,
+
+She wants to play games,
+I am on the last stage,
+```
+
+Title: Horny Salesman
+
+```
+The horny salesman strolls on Tooso's floor,
+He lingers from the table to exit doors,
+
+He sells a dream, a card, a scam,
+He has been reduced to a lesser man,
+
+He smells the teen spirit in the air,
+Nurses robes, red lips and perspiration is near,
+
+He takes their identities and cell- numbers,
+A palyboy that sells a fatasy at nights,
+
+Takes the girl out on dates,
+All the harwork has gone to waste,
+
+Bring in the numbers, do top-ups and transactions,
+Every salesman is the devil's hand maiden,
+
+Passionate dreams are born in the tranquil hearts,
+The toxicity makes it all dull, stoned and dark.
+```
+
+Title: Chismish
+
+```
+There she goes,
+Into the night sky,
+
+I may never see her,
+I lost someone,
+
+I lost a friend,
+A confidante, a mate,
+
+We smoked together,
+Discussed books,
+
+Economics and dreams,
+We looked out for each other,
+
+Through the changing weather,
+It was fun, it was good,
+
+I made her laugh,
+She made me smile,
+
+Destiny set us apart,
+She stopped being my sweetheart,
+
+Now I look for my better half,
+In down-trodden and dark corridors,
+
+Smoke in my hand,
+A bottle in another,
+
+Should I commit seppuku,
+Or jump from a building,
+
+I need my reading glasses,
+Where is my brown-eyed chismish,
+```
+
+Title: Loverboy III
+
+```
+Let me kiss you,
+Kiss your spine,
+
+Your feet, your knees,
+Let me feel you,
+
+Your heart, Your soul,
+Your thoughts, your dreams,
+
+Let me spoil you,
+Eating at Xanders,
+
+Shopping at Sara Safina,
+Swimming in the Indian ocean,
+
+Let me give you,
+My love, my seed,
+
+My world, my heart,
+my touch, my existence,
 ```
 
