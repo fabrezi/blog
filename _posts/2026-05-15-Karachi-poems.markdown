@@ -192,7 +192,7 @@ Nurses robes, red lips and perspiration is near,
 He takes their identities and cell- numbers,
 A playboy that gives favors and back rubs,
 
-Takes the girl out on dates,
+Take the girls out on dates,
 Facials for their pretty face,
 
 Bring in the numbers, do top-ups and transactions,
